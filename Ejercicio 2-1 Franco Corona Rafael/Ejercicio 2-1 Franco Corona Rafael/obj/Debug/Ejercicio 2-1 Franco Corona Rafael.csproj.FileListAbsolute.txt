@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Ejercicio 2-1 Franco Corona Rafael\Ejercicio 2-1 Franco Corona Rafael\bin\Debug\Ejercicio 2-1 Franco Corona Rafael.exe.config
+C:\Users\rafae\source\repos\Ejercicio 2-1 Franco Corona Rafael\Ejercicio 2-1 Franco Corona Rafael\bin\Debug\Ejercicio 2-1 Franco Corona Rafael.exe
+C:\Users\rafae\source\repos\Ejercicio 2-1 Franco Corona Rafael\Ejercicio 2-1 Franco Corona Rafael\bin\Debug\Ejercicio 2-1 Franco Corona Rafael.pdb
+C:\Users\rafae\source\repos\Ejercicio 2-1 Franco Corona Rafael\Ejercicio 2-1 Franco Corona Rafael\obj\Debug\Ejercicio 2-1 Franco Corona Rafael.csprojResolveAssemblyReference.cache
+C:\Users\rafae\source\repos\Ejercicio 2-1 Franco Corona Rafael\Ejercicio 2-1 Franco Corona Rafael\obj\Debug\Ejercicio 2-1 Franco Corona Rafael.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Ejercicio 2-1 Franco Corona Rafael\Ejercicio 2-1 Franco Corona Rafael\obj\Debug\Ejercicio 2-1 Franco Corona Rafael.exe
+C:\Users\rafae\source\repos\Ejercicio 2-1 Franco Corona Rafael\Ejercicio 2-1 Franco Corona Rafael\obj\Debug\Ejercicio 2-1 Franco Corona Rafael.pdb
