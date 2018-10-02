@@ -1,0 +1,20 @@
+E:\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe.config
+E:\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+E:\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+E:\EJERCICIO 1\EJERCICIO 1\obj\Debug\E2-2 Franco Corona Rafael.csproj.CoreCompileInputs.cache
+E:\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.exe
+E:\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.pdb
+F:\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe.config
+F:\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+F:\EJERCICIO 1\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+F:\EJERCICIO 1\EJERCICIO 1\obj\Debug\E2-2 Franco Corona Rafael.csprojAssemblyReference.cache
+F:\EJERCICIO 1\EJERCICIO 1\obj\Debug\E2-2 Franco Corona Rafael.csproj.CoreCompileInputs.cache
+F:\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.exe
+F:\EJERCICIO 1\EJERCICIO 1\obj\Debug\EJERCICIO 1.pdb
+F:\E2-2 Franco Corona Rafael\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe.config
+F:\E2-2 Franco Corona Rafael\EJERCICIO 1\bin\Debug\EJERCICIO 1.exe
+F:\E2-2 Franco Corona Rafael\EJERCICIO 1\bin\Debug\EJERCICIO 1.pdb
+F:\E2-2 Franco Corona Rafael\EJERCICIO 1\obj\Debug\E2-2 Franco Corona Rafael.csprojAssemblyReference.cache
+F:\E2-2 Franco Corona Rafael\EJERCICIO 1\obj\Debug\E2-2 Franco Corona Rafael.csproj.CoreCompileInputs.cache
+F:\E2-2 Franco Corona Rafael\EJERCICIO 1\obj\Debug\EJERCICIO 1.exe
+F:\E2-2 Franco Corona Rafael\EJERCICIO 1\obj\Debug\EJERCICIO 1.pdb
