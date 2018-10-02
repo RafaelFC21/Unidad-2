@@ -26,7 +26,7 @@ namespace E2_2_Franco_Corona_Rafael
                 recursivo(inicial, final, repeticiones - 1);
             }
         }
-        public void iteractivo()
+        public void iterativo()
         {
             int inicial = 1;
             int final = 0;
