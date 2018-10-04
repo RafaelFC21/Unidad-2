@@ -1,0 +1,7 @@
+C:\Users\franco\source\repos\PE2- Franco Corona Rafael\PE2- Franco Corona Rafael\bin\Debug\PE2- Franco Corona Rafael.exe.config
+C:\Users\franco\source\repos\PE2- Franco Corona Rafael\PE2- Franco Corona Rafael\bin\Debug\PE2- Franco Corona Rafael.exe
+C:\Users\franco\source\repos\PE2- Franco Corona Rafael\PE2- Franco Corona Rafael\bin\Debug\PE2- Franco Corona Rafael.pdb
+C:\Users\franco\source\repos\PE2- Franco Corona Rafael\PE2- Franco Corona Rafael\obj\Debug\PE2- Franco Corona Rafael.csprojAssemblyReference.cache
+C:\Users\franco\source\repos\PE2- Franco Corona Rafael\PE2- Franco Corona Rafael\obj\Debug\PE2- Franco Corona Rafael.csproj.CoreCompileInputs.cache
+C:\Users\franco\source\repos\PE2- Franco Corona Rafael\PE2- Franco Corona Rafael\obj\Debug\PE2- Franco Corona Rafael.exe
+C:\Users\franco\source\repos\PE2- Franco Corona Rafael\PE2- Franco Corona Rafael\obj\Debug\PE2- Franco Corona Rafael.pdb
